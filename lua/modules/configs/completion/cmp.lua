@@ -153,7 +153,7 @@ return function()
 			{ name = "buffer" },
 			{ name = "latex_symbols" },
 			{ name = "copilot" },
-			-- { name = "codeium" },
+			{ name = "codeium" },
 			-- { name = "cmp_tabnine" },
 		},
 		experimental = {
