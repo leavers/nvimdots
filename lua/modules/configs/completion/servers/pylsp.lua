@@ -8,12 +8,12 @@ return {
 				-- Lint
 				ruff = {
 					enabled = true,
-					select = {
-						-- enable pycodestyle
-						"E",
-						-- enable pyflakes
-						"F",
-					},
+					-- select = {
+					-- 	-- enable pycodestyle
+					-- 	"E",
+					-- 	-- enable pyflakes
+					-- 	"F",
+					-- },
 					ignore = {
 						-- ignore E501 (line too long)
 						-- "E501",
